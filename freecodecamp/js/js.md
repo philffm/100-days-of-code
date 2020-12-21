@@ -1,4 +1,15 @@
 
+# JavaSCript notes - Snippets to reuse one day
+
+> Welcome to my coding notebook, have fun !!
+
+## Chapter Template
+
+```javascript
+
+
+
+```
 
 ## Lookup objects
 
